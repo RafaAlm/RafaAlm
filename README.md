@@ -6,7 +6,7 @@
 
 
 - ⚽  I like to pratice sports. 
-- 🎮  I love to play video gamesfam.
+- 🎮  I love to play video games.
 - ♟️  Sometimes I play chess.
 
  ##
