@@ -1,13 +1,13 @@
--    ## Olá pessoal! Sou o Rafael Almeida estou no começo de carreira de Data Analyst, tenho muito que aprender as dicas são bem vindas.
+-    ## I'm Passionate technology enthusiast with a data-driven mindset and a commitment to constant learning..
 
-- 👦  Atualmente trabalho com suporte de TI...
-- 👨‍🎓  Estou concluindo a gradução em Sistemas de Informação ...
-- 📚  Estudo ferramentas de Data Analyst e faço curso relacionado a area...
+- 👦  Itern data engineer.
+- 👨‍🎓  Last semester of information systems.
+- 📚  I believe that knowledge is an ongoing journey, and I'm always acquiring new skills and deepening my expertise in areas related to technology and data.
 
 
-- ⚽  Gosto muito de praticar esportes... 
-- 🎮  Também curto games digitais...
-- ♟️  Amo jogar xadres...
+- ⚽  I like to pratice sports. 
+- 🎮  I love to play video gamesfam.
+- ♟️  Sometimes I play chess.
 
  ##
  <div align="left"> 
