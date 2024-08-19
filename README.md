@@ -1,7 +1,7 @@
 -    ## I'm Passionate technology enthusiast with a data-driven mindset and a commitment to constant learning..
 
 - 👦  Itern data engineer.
-- 👨‍🎓  Last semester of information systems.
+- 👨‍🎓  Graduate in information systems.
 - 📚  I believe that knowledge is an ongoing journey, and I'm always acquiring new skills and deepening my expertise in areas related to technology and data.
 
 
