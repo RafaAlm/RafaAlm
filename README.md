@@ -2,7 +2,7 @@
 
 - 👦  Itern data engineer.
 - 👨‍🎓  Graduate in information systems.
-- 📚  I believe that knowledge is an ongoing journey, and I'm always acquiring new skills and deepening my expertise in areas related to technology and data.
+- 📚  Knowledge is an ongoing journey, and I'm always acquiring new skills and deepening my expertise in areas related to technology and data.
 
 
 - ⚽  I like to pratice sports. 
