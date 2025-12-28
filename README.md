@@ -1,12 +1,11 @@
 -    ## I'm Passionate technology enthusiast with a data-driven mindset and a commitment to constant learning..
 
-- 👦  Itern data engineer.
+- 👦  Data Analyst.
 - 👨‍🎓  Graduate in information systems.
 - 📚  Knowledge is an ongoing journey, and I'm always acquiring new skills and deepening my expertise in areas related to technology and data.
 
 
 - ⚽  I like to pratice sports. 
-- 🎮  I love to play video games.
 - ♟️  Sometimes I play chess.
 
  ##
